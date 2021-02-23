@@ -2,3 +2,5 @@
 
 Average Joe's is a gym simulation platform. It will show the interaction with machines and smart wristband, show the machines automatically booked and make possible to change the parameters set for an exercise.
 
+> Project of course: Functional Programming ([unibo](https://www.unibo.it/it))
+
